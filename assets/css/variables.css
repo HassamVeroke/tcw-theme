@@ -1,0 +1,72 @@
+/* ==========================================================================
+   TCW Theme Variables
+   ========================================================================== */
+
+:root {
+
+  /* Colors */
+  --color-primary: #0B5CFF;
+  --color-primary-dark: #0847C6;
+  --color-secondary: #0D1B2A;
+
+  --color-text: #1F2937;
+  --color-text-light: #6B7280;
+
+  --color-white: #FFFFFF;
+  --color-light: #F8FAFC;
+  --color-border: #E5E7EB;
+
+  /* Backgrounds */
+  --bg-body: #FFFFFF;
+  --bg-section: #F8FAFC;
+
+  /* Typography */
+  --font-primary: "Inter", sans-serif;
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-md: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 2rem;
+  --font-size-3xl: 3rem;
+  --font-size-4xl: 4rem;
+
+  /* Font Weights */
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  /* Container */
+  --container-width: 1308px;
+  --container-padding: 24px;
+
+  /* Spacing */
+  --space-xs: 8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 40px;
+  --space-xl: 64px;
+  --space-2xl: 96px;
+
+  /* Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-xl: 32px;
+  --radius-pill: 999px;
+
+  /* Shadows */
+  --shadow-sm: 0 4px 12px rgba(0,0,0,.05);
+  --shadow-md: 0 10px 30px rgba(0,0,0,.08);
+  --shadow-lg: 0 25px 60px rgba(0,0,0,.12);
+
+  /* Transition */
+  --transition: .3s ease;
+
+  /* Z-index */
+  --z-header: 1000;
+  --z-dropdown: 1100;
+  --z-modal: 9999;
+}
